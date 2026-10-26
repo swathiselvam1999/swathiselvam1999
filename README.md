@@ -2,7 +2,7 @@
 
 💻 Full-Stack MERN Developer | ⚛️ React & Frontend Specialist  
 🎯 Building responsive, scalable web applications  
-👩‍🏫 Co-Mentor – Web Development  
+👩‍🏫 Web Development  
 
 ---
 
